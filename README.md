@@ -1,6 +1,6 @@
 # Live Demo
 
-https://covid-19-tracker-2801.firebaseapp.com/
+https://itssinjapanese1-react-js.vercel.app/
 
 
 ## Available Scripts
